@@ -1,0 +1,8 @@
+name: MyEnv1
+values:
+  - key: base_url
+    value: ''
+  - key: token
+    value: ''
+  - key: product_id
+    value: ''
